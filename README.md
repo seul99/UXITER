@@ -12,8 +12,8 @@ User 입장에서 UI/UX를 기반으로 IT 관련 서비스를 기획하는 학�
 
 <br>
 
-## 🎈 UXITER 2기 네일아트 어플기획 발표ppt 링크
-> https://drive.google.com/file/d/1-MWjGcTX0-5rfGbUAn4e6zbd8ZoEX2vJ/view?usp=sharing
+## 🎈 UXITER 2기 네일아트 어플기획
+
 
 <br>
 
