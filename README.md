@@ -1,18 +1,41 @@
-# UXITER
-동덕여자대학교 HCI사이언스전공 학회 UXITER 2기
+# 🌟 UXITER
+#### 동덕여자대학교 HCI사이언스전공 학회 UXITER 2기
 
-**UXITER는?** <br>
-User 입장에서 UI/UX를 기반으로 IT 관련 서비스를 기획하는 학회 입니다.
-
-<br>
-
-## 👩🏻‍🏫 프로젝트 소개
-**네일아트 어플기획 - YouR Nail**   
-- 네일 아티스트와 사용자 모두가 네일아트를 편안하고 원활하게 할 수 있는 앱서비스   
+UXITER는 사용자 경험(UX)과 인터페이스(UI)를 중심으로 IT 서비스를 기획·디자인하는 학술 동아리입니다. <br>
+사용자의 입장에서 문제를 정의하고, 기술과 디자인을 접목해 더 나은 디지털 경험을 만드는 것을 목표로 활동하고 있습니다.
 
 <br>
 
-## 🎈 UXITER 2기 네일아트 어플기획
+## 💅🏻 프로젝트 소개: YouR Nail
+#### “당신만의 네일을 위한 맞춤형 플랫폼” 
+YouR Nail은 네일 아티스트와 사용자가 서로 편리하게 소통하고, <br>
+개인 취향에 맞는 네일 디자인을 쉽게 찾고 예약할 수 있도록 기획된 모바일 앱 서비스입니다.   
+
+#### 📌주요 기능:
+- 사용자 맞춤 디자인 추천 <br>
+- 실시간 예약 시스템 <br>
+- 아티스트 포트폴리오 열람 <br>
+- 리뷰 기반 신뢰도 시스템 <br>
+<br>
+
+## 👥 팀원 소개
+본 프로젝트는 세 명의 팀원이 모든 과정을 함께 고민하고 협업하여 완성했습니다.
+아래는 각자의 주요 기여 역할입니다. <br>
+
+👩‍💼 이소희 (팀장) – 기획 총괄, 사용자 흐름 설계 <br>
+👩🏻 박슬기 – 리서치 및 기능 기획, UI 아이디어 제안 <br>
+👩‍💻 김윤수 – 디자인 컨셉 설정, 와이어프레임 제작 <br>
+
+> 🎯 기획부터 디자인까지 전 과정은 팀원 모두의 논의와 협업을 통해 진행되었습니다.
+
+<br>
+
+## 🛠 사용 툴
+- Figma (UI/UX 디자인)
+
+<br>
+
+## 🎞️ 발표 자료 보기
 ![1_피피티 시작](https://github.com/user-attachments/assets/f4eac5cc-2f6c-4b46-8737-c91ff4da3096)
 ![2_서비스 목적 및 동기](https://github.com/user-attachments/assets/2c1a0e3b-a8f8-4c4e-bd54-090d473ced11)
 ![3_목차](https://github.com/user-attachments/assets/5f9ba4f8-04d2-4555-b49f-a163242d62c5)
@@ -52,26 +75,7 @@ User 입장에서 UI/UX를 기반으로 IT 관련 서비스를 기획하는 학�
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <br>
 
-## ✔ 네일아트 어플 프로토타이핑 링크
+## 📱 앱 프로토타입 미리보기 (Figma)
 > https://www.figma.com/proto/21wQmXnUHlqqvl14zkbia4/UXITER-2%EA%B8%B0-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=3-273&t=bXdRes2kQKbF9CAt-1&scaling=scale-down&page-id=3%3A235&starting-point-node-id=9%3A1440
