@@ -79,3 +79,8 @@ YouR Nail은 네일 아티스트와 사용자가 서로 편리하게 소통하�
 
 ## 📱 앱 프로토타입 미리보기 (Figma)
 > https://www.figma.com/proto/21wQmXnUHlqqvl14zkbia4/UXITER-2%EA%B8%B0-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=3-273&t=bXdRes2kQKbF9CAt-1&scaling=scale-down&page-id=3%3A235&starting-point-node-id=9%3A1440
+
+<br>
+
+## 🔖 인간공학학회 포스터
+- [포스터 보러가기](https://drive.google.com/file/d/1KBgd8v36CHoJBQ6DA7TalmxOTBcBnWMf/view?usp=drive_link)
